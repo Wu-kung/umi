@@ -1,0 +1,65 @@
+packages/create-umi/templates/vue-app/.gitignore.tpl
+  s_415ccb963b92f1::t_c0618349b733c4 15
+packages/preset-umi/src/types.ts
+  s_415ccb963b92f1::t_f2e5952b9624ee 216
+packages/bundler-utoopack/src/analyze.test.ts
+  s_415ccb963b92f1::t_01604c2d943217 60,81-94,119-124,159,163-164,187,193
+  s_415ccb963b92f1::t_d9f7ec05e030e6 185-186,188-192,194
+  s_415ccb963b92f1::t_8d71f1c7c3801e 51-52
+  s_415ccb963b92f1::t_359769d62572ab 1-40,42-50,53-59,61-80,95-118,125-158,160-162,165-184,195
+  s_415ccb963b92f1::t_29da66e36412a8 41
+packages/preset-umi/src/features/utoopack/utoopack.ts
+  s_415ccb963b92f1::t_9b571a2d19d56f 200
+  s_415ccb963b92f1::t_ec2e64b4bde772 5
+  s_415ccb963b92f1::t_bd5d25dfd4bb46 199,201-204
+  s_415ccb963b92f1::t_74f7e37f1b3aa8 50-51,53-66,68-102
+  s_415ccb963b92f1::t_c0cada52210cb9 52,67
+  s_415ccb963b92f1::t_303d5ddeb55002 1-4
+docs/docs/docs/guides/env-variables.md
+  s_415ccb963b92f1::t_09f356beb704f0 119-126
+packages/bundler-utoopack/src/analyze.ts
+  s_415ccb963b92f1::t_748832deb662c9 8-9,11,23-25,31,44-45,58
+  s_415ccb963b92f1::t_04e3ae21d8c4aa 1-7,10,12-22,26-30,32-43,46-54,56,60-61
+  s_415ccb963b92f1::t_19e357c7a2d021 57,59
+  s_415ccb963b92f1::t_6667d5dad9ec9e 55
+packages/bundler-utoopack/src/index.ts
+  s_415ccb963b92f1::t_a1fd737cb09e37 18,25-30
+packages/create-umi/templates/max/.gitignore.tpl
+  s_415ccb963b92f1::t_c0618349b733c4 15
+docs/docs/docs/api/config.md
+  s_415ccb963b92f1::t_aebf620304ce9b 104-105
+packages/create-umi/templates/app/.gitignore.tpl
+  s_415ccb963b92f1::t_c0618349b733c4 11
+packages/preset-umi/src/features/utoopack/utoopack.test.ts
+  s_415ccb963b92f1::t_8bd0059a2e3478 1-2,4-22,26-66,74,80-81,83-88,90-95,105-108,148,170-172,174-190,192-193,195-201,204-229,231-254,256-268,270,272-284,286-291,293-310,312-343,345-353
+  s_415ccb963b92f1::t_365d674cea3b97 23-24
+  s_415ccb963b92f1::t_b79f96ea8d1905 89
+  s_415ccb963b92f1::t_2ec7c6b37c5171 230
+  s_415ccb963b92f1::t_e1cd510ec227b1 285
+  s_415ccb963b92f1::t_52cde7c49dfc46 25,255,271,292,344
+  s_415ccb963b92f1::t_edbd7f6fe55d56 82,96-104
+  s_415ccb963b92f1::t_7f7d7857e5f363 202-203
+  s_415ccb963b92f1::t_2edd6cd8f16752 311
+  s_415ccb963b92f1::t_61ea2c627d6130 109,149,173,194
+  s_415ccb963b92f1::t_48607f3450833a 191
+  s_415ccb963b92f1::t_0777c563d042ca 269
+packages/bundler-utoopack/src/config.ts
+  s_415ccb963b92f1::t_4225fa193f57ab 293-301,303-308
+  s_415ccb963b92f1::t_348ba8abf3aa90 302
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "435e7be269d212dd7c0e67bbb0ce8f5c2ea7305d",
+  "prompts": {},
+  "sessions": {
+    "s_415ccb963b92f1": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "3fda7e87-ef47-4361-8b4a-43d9b57fb013",
+        "model": "antchat/GLM-5.3"
+      },
+      "human_author": "Wu-kung <1434246346@qq.com>"
+    }
+  }
+}
